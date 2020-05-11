@@ -1,0 +1,3 @@
+ ubah file apps line 14
+ 
+ auth_token  = "0e278cc19e9b9c89ca3139048119e1c5"  ==> auth_token  = "71621edccb3999b4c9e4b54c58a2131c"
